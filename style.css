@@ -1,0 +1,120 @@
+           #banner-image{
+             padding-top: 75px;
+             padding-bottom: 50px;
+             text-align: center;
+             color: #f8f8f8;
+             background-image: url("New folder/intro.jpg");
+             background-size: cover; 
+            }
+            #banner-image1{
+             padding-top: 75px;
+             padding-bottom: -5px;
+             text-align: center;
+             color: #f8f8f8;
+             background-image: url("New folder/intro.jpg");
+             background-size: cover; 
+            }
+           #banner-content{
+             position: relative;
+             padding-top: 6%;
+             padding-bottom: 6%;
+             margin-top: 12%;
+             margin-bottom: 12%;
+             background-color: rgba(0, 0, 0, 0.7);
+             max-width: 660px; 
+             
+            }
+            #banner-content1{
+            position: relative;
+             padding-top: 1%;
+             padding-bottom: 6%;
+             margin-top: 0%;
+             padding-left:25px;
+             padding-right:25px;
+             margin-bottom: -30px;;
+             background-color: rgba(0, 0, 0, 0.7);
+             max-width: 900px; 
+             
+            }
+            #foot{
+             padding: 10px 0;
+             background-color: #101010;
+             color:#9d9d9d;
+             bottom: 0;
+             width: 100%; 
+            }
+        .row_style{
+        
+         margin-top:100px;
+
+        padding-bottom:60px;
+        }
+
+         .row_style1{
+        
+         margin-top:60px;
+
+        padding-bottom:80px;
+        }
+
+        .row_style2{
+        
+        margin-top:150px;
+
+        padding-bottom:210px;
+        }
+
+        .p_foot{
+        color: black;
+         text-align: left;
+        }
+        #pad{
+        padding-left:200px; 
+        }
+        #form_pad{
+        padding-bottom:0px;
+        }
+        .jumbotron{
+         margin-top:60px;
+         margin-left:-7px;
+         margin-right:-7px;
+         }
+        #colo{
+        background-color:#A9A9A9;
+        }
+        #addto{
+        padding-left:70px;
+        padding-right:70px;
+        }
+        .row1{
+         margin-top:100px;
+         margin-bottom:10px;
+         }
+         .row2{
+         margin-bottom:378px;
+         }
+         #bord{
+          margin-top:5px;
+         }
+         #order{
+         margin-top:100px;
+         margin-bottom:327px;
+         }
+         #search{
+          padding-left:250px;
+          margin-top:2px;
+         
+         }
+         #search1{
+         padding-right:300px;
+         }
+         #icon{
+         padding-right:62px;
+         }
+         #content{
+   
+         min-height:607px;
+}
+         .order1{
+         margin-top:120px;
+         }
